@@ -19,7 +19,6 @@ CCTV-13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV-14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV-15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv168m/8000000
 CCTV-17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 
@@ -43,7 +42,6 @@ BesTV-卫视,#genre#
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
 黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljws8m/8000000
 陕西卫视,https://live.goodiptv.club/api/bestv.php?id=sxws/1300000
-青海卫视,https://live.goodiptv.club/api/bestv.php?id=qhws/1300000
 西藏卫视,https://live.goodiptv.club/api/bestv.php?id=xzws/2500000
 厦门卫视,https://live.goodiptv.club/api/bestv.php?id=xmws/1300000
 三沙卫视,https://live.goodiptv.club/api/bestv.php?id=sswshd8m/8000000
@@ -59,7 +57,6 @@ BesTV-其它,#genre#
 健康养生,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
 华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 快乐垂钓,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
 法治天地,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
 热门综艺,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
 生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
@@ -70,6 +67,7 @@ BesTV-其它,#genre#
 茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
 青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
 
 BesTV-少儿,#genre#
 卡酷少儿,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
